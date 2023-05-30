@@ -1,0 +1,7 @@
+.App {
+  margin: 0;
+  display:relative;
+  background: #282c34;
+  min-height: 100vh;
+  height: 100vh;
+}
